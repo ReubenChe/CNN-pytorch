@@ -4,9 +4,6 @@
 
 This is a project that implements a Convolutional Neural Network (CNN) using PyTorch to recognize the classic MNIST handwritten digit dataset. The project covers the complete workflow of data preprocessing, model building, training, evaluation, and result visualization.
 
-
-*(这是一个示例结果图，你可以用自己程序生成的图片替换它)*
-
 ## ✨ 功能特性 (Features)
 
 - **简洁的CNN架构**: 包含两个卷积层、两个最大池化层和两个全连接层。
